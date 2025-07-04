@@ -1,2 +1,2 @@
 # Power-Bi
-Bar Chart Visualization
+ Chart Visualization
